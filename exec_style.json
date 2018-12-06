@@ -1,0 +1,305 @@
+[ {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.7.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "ExecStyle",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "color" : "rgb(102,102,102)",
+      "height" : 18.0,
+      "text-valign" : "bottom",
+      "text-halign" : "right",
+      "content" : "",
+      "border-color" : "rgb(255,255,255)",
+      "border-width" : 7.0,
+      "font-family" : "SansSerif",
+      "font-weight" : "normal",
+      "background-opacity" : 1.0,
+      "shape" : "ellipse",
+      "text-opacity" : 1.0,
+      "width" : 18.0,
+      "background-color" : "rgb(254,196,79)",
+      "font-size" : 14,
+      "border-opacity" : 1.0
+    }
+  }, {
+    "selector" : "node[name = '44']",
+    "css" : {
+      "content" : "Arthur E. Franklin "
+    }
+  }, {
+    "selector" : "node[name = '23']",
+    "css" : {
+      "content" : "H. Bernhardt Cohen"
+    }
+  }, {
+    "selector" : "node[name = '45']",
+    "css" : {
+      "content" : "Sydney Montagu Samuel"
+    }
+  }, {
+    "selector" : "node[name = '47']",
+    "css" : {
+      "content" : "S. Gelberg"
+    }
+  }, {
+    "selector" : "node[name = '69']",
+    "css" : {
+      "content" : "Mr. Herman Landau"
+    }
+  }, {
+    "selector" : "node[name = '29']",
+    "css" : {
+      "content" : "Israel Davis"
+    }
+  }, {
+    "selector" : "node[name = 'Poor Jews' Temporary Shelter']",
+    "css" : {
+      "content" : "Poor Jews' Temporary Shelter"
+    }
+  }, {
+    "selector" : "node[name = 'Society of Jewish Statistics ']",
+    "css" : {
+      "content" : "Society of Jewish Statistics"
+    }
+  }, {
+    "selector" : "node[name = 'Jewish Lads' Brigade']",
+    "css" : {
+      "content" : "Jewish Lads' Brigade"
+    }
+  }, {
+    "selector" : "node[name = '132']",
+    "css" : {
+      "content" : "Oswald John Simon"
+    }
+  }, {
+    "selector" : "node[name = '155']",
+    "css" : {
+      "content" : "A. Englander"
+    }
+  }, {
+    "selector" : "node[name = '156']",
+    "css" : {
+      "content" : "Rev. A.E. Gordon"
+    }
+  }, {
+    "selector" : "node[name = 'Royal Commission on Alien Immigration ']",
+    "css" : {
+      "content" : "Royal Commission on Alien Immigration"
+    }
+  }, {
+    "selector" : "node[name = '115']",
+    "css" : {
+      "content" : "Asher I. Myers"
+    }
+  }, {
+    "selector" : "node[name = 'Jewish Religious Education Board ']",
+    "css" : {
+      "content" : "Jewish Religious Education Board"
+    }
+  }, {
+    "selector" : "node[name = 'Board of Deputies of British Jews']",
+    "css" : {
+      "content" : "Board of Deputies of British Jews"
+    }
+  }, {
+    "selector" : "node[name = 'Parliament ']",
+    "css" : {
+      "content" : "Parliament"
+    }
+  }, {
+    "selector" : "node[name = 'Jewish Working Men's Club ']",
+    "css" : {
+      "content" : "Jewish Working Men's Club"
+    }
+  }, {
+    "selector" : "node[name = '98']",
+    "css" : {
+      "content" : "Sir Philip Magnus"
+    }
+  }, {
+    "selector" : "node[name = 'East End Aid Society']",
+    "css" : {
+      "content" : "East End Aid Society"
+    }
+  }, {
+    "selector" : "node[name = '33']",
+    "css" : {
+      "content" : "Leopold de Rothschild"
+    }
+  }, {
+    "selector" : "node[name = '55']",
+    "css" : {
+      "content" : "M.A. Green"
+    }
+  }, {
+    "selector" : "node[name = '18']",
+    "css" : {
+      "content" : "Leonard L. Cohen"
+    }
+  }, {
+    "selector" : "node[name = '142']",
+    "css" : {
+      "content" : "Algernon E. Sydney"
+    }
+  }, {
+    "selector" : "node[name = '121']",
+    "css" : {
+      "content" : "Mr. Philip  F. Phillips "
+    }
+  }, {
+    "selector" : "node[name = 'Maccabæns']",
+    "css" : {
+      "content" : "Maccabæns"
+    }
+  }, {
+    "selector" : "node[name = '123']",
+    "css" : {
+      "content" : "Joseph Prag"
+    }
+  }, {
+    "selector" : "node[name = '124']",
+    "css" : {
+      "content" : "Lord Rothschild"
+    }
+  }, {
+    "selector" : "node[name = '146']",
+    "css" : {
+      "content" : "Reginald Tuck"
+    }
+  }, {
+    "selector" : "node[name = '103']",
+    "css" : {
+      "content" : "B. Mocatta"
+    }
+  }, {
+    "selector" : "node[name = '104']",
+    "css" : {
+      "content" : "F.D. Mocatta"
+    }
+  }, {
+    "selector" : "node[name = '127']",
+    "css" : {
+      "content" : "Stuart M. Samuel MP"
+    }
+  }, {
+    "selector" : "node[name = '149']",
+    "css" : {
+      "content" : "Lucien Wolf"
+    }
+  }, {
+    "selector" : "node[name = '108']",
+    "css" : {
+      "content" : "Sir Samuel Montagu"
+    }
+  }, {
+    "selector" : "node[name = 'The Jewish Chronicle ']",
+    "css" : {
+      "content" : "The Jewish Chronicle "
+    }
+  }, {
+    "selector" : "node[name = '109']",
+    "css" : {
+      "content" : "C.G. Montefiore "
+    }
+  }, {
+    "selector" : "node[name = 'Anglo-Jewish Association']",
+    "css" : {
+      "content" : "Anglo-Jewish Association"
+    }
+  }, {
+    "selector" : "node[name = '84']",
+    "css" : {
+      "content" : "S. Karet"
+    }
+  }, {
+    "selector" : "node[name = '42']",
+    "css" : {
+      "content" : "Ellis A. Franklin"
+    }
+  }, {
+    "selector" : "node[name = '21']",
+    "css" : {
+      "content" : "D. Moses"
+    }
+  }, {
+    "selector" : "node[name = 'Jewish Board of Guardians']",
+    "css" : {
+      "content" : "Jewish Board of Guardians"
+    }
+  }, {
+    "selector" : "node[name = '108']",
+    "css" : {
+      "font-size" : null
+    }
+  }, {
+    "selector" : "node[name = '103']",
+    "css" : {
+      "font-size" : null
+    }
+  }, {
+    "selector" : "node[name = '104']",
+    "css" : {
+      "font-size" : null
+    }
+  }, {
+    "selector" : "node[Connection_ = 2]",
+    "css" : {
+      "width" : null,
+      "height" : null
+    }
+  }, {
+    "selector" : "node[Connection_ = 3]",
+    "css" : {
+      "width" : null,
+      "height" : null
+    }
+  }, {
+    "selector" : "node[Connection_ = 4]",
+    "css" : {
+      "width" : null,
+      "height" : null
+    }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "source-arrow-color" : "rgb(255,255,255)",
+      "font-size" : 10,
+      "font-family" : "SansSerif",
+      "font-weight" : "normal",
+      "target-arrow-color" : "rgb(255,255,255)",
+      "target-arrow-shape" : "triangle",
+      "width" : 3.0,
+      "color" : "rgb(0,0,0)",
+      "line-style" : "solid",
+      "line-color" : "rgb(255,255,255)",
+      "content" : "",
+      "opacity" : 1.0
+    }
+  }, {
+    "selector" : "edge[Committee = 'Executive']",
+    "css" : {
+      "color" : "rgb(0,0,0)"
+    }
+  }, {
+    "selector" : "edge[Committee = 'Executive']",
+    "css" : {
+      "line-color" : "rgb(0,0,0)",
+      "target-arrow-color" : "rgb(0,0,0)",
+      "source-arrow-color" : "rgb(0,0,0)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+} ]
